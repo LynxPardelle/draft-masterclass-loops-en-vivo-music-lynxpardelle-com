@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-loops-en-vivo.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Loops en vivo | Lynx Pardelle",
+    "description": "Prepara una sesión que puedas tocar con clips de audio. Combina patrones en bucle, sonidos de un solo disparo y muestras transpuestas para variar lo que se escucha durante una interpretación.",
+    "canonical": "https://masterclass-loops-en-vivo.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-grabacion-voz.webp"
+    }
+  }
+}
