@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Loops en vivo | Lynx Pardelle",
-    "description": "Prepara una sesión que puedas tocar con clips de audio. Combina patrones en bucle, sonidos de un solo disparo y muestras transpuestas para variar lo que se escucha durante una interpretación.",
+    "title": "Masterclass de loops en vivo y disparo de clips | Lynx Pardelle",
+    "description": "Organiza loops, muestras de un solo disparo y variaciones para tocar en vivo. Consulta el temario de esta masterclass de 2 a 3 horas.",
     "canonical": "https://masterclass-loops-en-vivo.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-loops-en-vivo-r2-acd293efba203a4f.webp",
+      "title": "Masterclass de loops en vivo y disparo de clips | Lynx Pardelle",
+      "description": "Organiza loops, muestras de un solo disparo y variaciones para tocar en vivo. Consulta el temario de esta masterclass de 2 a 3 horas.",
+      "url": "https://masterclass-loops-en-vivo.music.lynxpardelle.com/",
+      "imageAlt": "Un intérprete dispara clips desde un controlador de pads en el escenario."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de loops en vivo y disparo de clips | Lynx Pardelle",
+      "description": "Organiza loops, muestras de un solo disparo y variaciones para tocar en vivo. Consulta el temario de esta masterclass de 2 a 3 horas.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-loops-en-vivo-r2-acd293efba203a4f.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-loops-en-vivo.music.lynxpardelle.com/#webpage",
+        "name": "Loops en vivo",
+        "description": "Organiza loops, muestras de un solo disparo y variaciones para tocar en vivo. Consulta el temario de esta masterclass de 2 a 3 horas.",
+        "url": "https://masterclass-loops-en-vivo.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-loops-en-vivo.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-loops-en-vivo.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Loops en vivo",
+        "description": "Organiza loops, muestras de un solo disparo y variaciones para tocar en vivo. Consulta el temario de esta masterclass de 2 a 3 horas.",
+        "url": "https://masterclass-loops-en-vivo.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-loops-en-vivo-r2-acd293efba203a4f.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-loops-en-vivo.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
